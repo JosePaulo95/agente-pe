@@ -1,0 +1,21 @@
+.body{
+	background-color: #1e1e8e;
+}
+.content {
+	min-height: 100%; 
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+.secao-inativa{
+	display: none;
+}
+.titulo {
+	text-align: center;
+}
+.paragrafo {
+	text-align: justify;
+    text-justify: inter-word;
+	text-indent: 20px;
+}
